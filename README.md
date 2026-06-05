@@ -21,7 +21,7 @@ I love building things with data, making art, and playing the electric guitar wa
 `Python` `R` `SQL`
 
 *data science*
-`NumPy` `Pandas` `Matplotlib` `plotly` `Scikit-learn` `Web Scraping`
+`NumPy` `Pandas` `Matplotlib` `Plotly` `Scikit-learn` `Web Scraping`
 
 *creative*
 `Adobe Photoshop` `Adobe Illustrator` `Procreate`
