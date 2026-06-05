@@ -21,13 +21,13 @@ I love building things with data, making art, and playing the electric guitar wa
 `Python` `R` `SQL`
 
 *data science*
-`NumPy` `Pandas` `Scikit-learn` `Web Scraping`
+`NumPy` `Pandas` `Matplotlib` `plotly` `Scikit-learn` `Web Scraping`
 
 *creative*
 `Adobe Photoshop` `Adobe Illustrator` `Procreate`
 
 *dev*
-`Git` `HTML/CSS`
+`Git` `HTML/CSS` `LaTeX` `VS Code`
 
 ---
 
@@ -41,4 +41,5 @@ I love building things with data, making art, and playing the electric guitar wa
 
 ### 🌿 find me
 
+[![Email](https://img.shields.io/badge/email-yylnfeii%40gmail.com-darkslategray?style=flat-square&logo=gmail)](mailto:yylnfeii@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yinfei--liang-darkslategray?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yinfei-liang/)
