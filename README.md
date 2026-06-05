@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hello! I'm Fei (Yinfei) Liang 梁茵菲 👋
 
-<!--
-**feii-l/feii-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Junior @ UCSD · Data Science*
 
-Here are some ideas to get you started:
+I love building things with data, making art, and playing the electric guitar way too late at night. I'm happiest when I get to do a little bit of all three.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🕯️ about me
+
+- studying data science @ UC San Diego (class of '27)
+- digital illustrator in my free time
+- electric guitarist
+- always happy to chat about data projects!
+
+---
+
+### 🖋️ skills & tools
+
+*languages*
+`Python` `R` `SQL`
+
+*data science*
+`NumPy` `Pandas` `Scikit-learn` `Web Scraping`
+
+*creative*
+`Adobe Photoshop` `Adobe Illustrator` `Procreate`
+
+*dev*
+`Git` `HTML/CSS`
+
+---
+
+### 📖 currently
+
+- getting familiar with machine learning (loving it so far!)
+- working on new data science projects 
+- open to internships and collaborations, feel free to reach out!
+
+---
+
+### 🌿 find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yinfei--liang-darkslategray?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yinfei-liang/)
