@@ -1,4 +1,4 @@
-# Hello! I'm Fei (Yinfei) Liang 梁茵菲 👋
+# Hello! I'm Fei (Yinfei) Liang 👋
 
 *Junior @ UCSD · Data Science*
 
