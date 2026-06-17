@@ -10,7 +10,6 @@ I love building things with data, making art, and playing the electric guitar wa
 
 - studying data science @ UC San Diego (class of '27)
 - digital illustrator in my free time
-- electric guitarist
 - always happy to chat about data projects!
 
 ---
