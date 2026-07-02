@@ -1,6 +1,6 @@
 # Hello! I'm Fei (Yinfei) Liang 👋
 
-*Junior @ UCSD · Data Science*
+*Senior @ UCSD · Data Science*
 
 I love building things with data, making art, and playing the electric guitar way too late at night. I'm happiest when I get to do a little bit of all three.
 
